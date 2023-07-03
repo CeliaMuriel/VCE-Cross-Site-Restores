@@ -10,7 +10,7 @@ Enterprise and Lake offer the complete set of Teradata analytic functions, for M
 
 ## VCE infographics: the content of this repository
 
-In this repository, I gather high-resolution infographics and cheatsheets, each dedicated to explaining a VantageCloud **Enterprise** feature or using it as a cheatsheet on the different setup options.
+In this repository, I gather high-resolution infographics and cheatsheets, each dedicated to explaining a VantageCloud **Enterprise** feature or the different setup options.
 
 I published every infographic in separate posts on [my blog](https://celiamuriel.com/). You have below a list with every article and a summary of its content:
 * [From Zero to Hero in Cross-Site Restores in VantageCloud Enterprise](https://celiamuriel.com/from-zero-to-hero-in-cross-site-restores-in-teradata/): Infographic explaining the Cross-Site Restores feature in VantageCloud Enterprise. This feature allows you to quickly create a Disaster Recovery site for your Production database or launch a test environment based on an existing one.
