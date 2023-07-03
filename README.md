@@ -10,10 +10,11 @@ Enterprise and Lake offer the complete set of Teradata analytic functions, for M
 
 ## VCE infographics: the content of this repository
 
-In this repository, I gather high-resolution infographics and cheatsheets, each dedicated to explaining a VantageCloud **Enterprise** feature or the different setup options.
+I gather high-resolution infographics and cheatsheets in this repository, each dedicated to explaining a VantageCloud **Enterprise** feature or the different setup options.
 
-I published every infographic in separate posts on [my blog](https://celiamuriel.com/). You have below a list with every article and a summary of its content:
-* [From Zero to Hero in Cross-Site Restores in VantageCloud Enterprise](https://celiamuriel.com/from-zero-to-hero-in-cross-site-restores-in-teradata/): Infographic explaining the Cross-Site Restores feature in VantageCloud Enterprise. This feature allows you to quickly create a Disaster Recovery site for your Production database or launch a test environment based on an existing one.
+I published every infographic in separate posts on [my blog](https://celiamuriel.com/) with some further detail. You have below a list with every article and a summary of its content:
+* [From Zero to Hero in Cross-Site Restores in VantageCloud Enterprise](https://celiamuriel.com/from-zero-to-hero-in-cross-site-restores-in-teradata/) explains the Cross-Site Restores feature in VantageCloud Enterprise. This feature allows you to quickly create a Disaster Recovery site for your Production database or launch a test environment based on an existing one.
+* [Teradata VaaS on GCP: Network configuration](https://celiamuriel.com/teradata-vaas-on-gcp-network-configuration/) contains a cheatsheet with the key network elements you need to connect with your Teradata VaaS on GCP and a detailed explanation.
 
 This repository doesn't include an exhaustive list of all VCE configuration options and features, but it gathers the infographics I made when I needed to explain something to a customer.
 
