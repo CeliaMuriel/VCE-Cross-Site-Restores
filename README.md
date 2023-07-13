@@ -10,11 +10,12 @@ Enterprise and Lake offer the complete set of Teradata analytic functions, for M
 
 ## VCE infographics: the content of this repository
 
-I gather high-resolution infographics and cheatsheets in this repository, each dedicated to explaining a VantageCloud **Enterprise** feature or the different setup options.
+I gather high-resolution infographics and cheat sheets in this repository, each dedicated to explaining a VantageCloud **Enterprise** feature or the different setup options.
 
 I published every infographic in separate posts on [my blog](https://celiamuriel.com/) with some further detail. You have below a list with every article and a summary of its content:
 * [From Zero to Hero in Cross-Site Restores in VantageCloud Enterprise](https://celiamuriel.com/from-zero-to-hero-in-cross-site-restores-in-teradata/) explains the Cross-Site Restores feature in VantageCloud Enterprise. This feature allows you to quickly create a Disaster Recovery site for your Production database or launch a test environment based on an existing one. The post shows the [Cross-Site Restores in VantageCloud Enterprise infographic](https://github.com/CeliaMuriel/VantageCloud-Enterprise-infographics/blob/main/Cross-Site%20Restores%20in%20VantageCloud%20Enterprise.jpg).
-* [Teradata VaaS on GCP: Network configuration](https://celiamuriel.com/teradata-vaas-on-gcp-network-configuration/) contains a cheat sheet with the key network elements you need to connect with your Teradata VaaS on GCP and a detailed explanation. The post includes the [Teradata VCE on GCP - Network cheat sheet](https://github.com/CeliaMuriel/VantageCloud-Enterprise-infographics/blob/main/Teradata%20VCE%20on%20GCP_Network%20cheat%20sheet.jpg).
+* [Teradata VaaS on GCP: Network configuration](https://celiamuriel.com/teradata-vaas-on-gcp-network-configuration/) contains a cheat sheet, [Teradata VCE on GCP - Network cheat sheet](https://github.com/CeliaMuriel/VantageCloud-Enterprise-infographics/blob/main/Teradata%20VCE%20on%20GCP_Network%20cheat%20sheet.jpg), with the key network elements you need to connect with your Teradata VaaS on GCP and a detailed explanation.
+* [Teradata VaaS on Azure: Network configuration](https://celiamuriel.com/teradata-vaas-on-azure-network-configuration) shows a cheat sheet, [Teradata VCE on Azure_Network cheat sheet](https://github.com/CeliaMuriel/VantageCloud-Enterprise-infographics/blob/main/Teradata%20VCE%20on%20Azure_Network%20cheat%20sheet.jpg), with the main network elements you need to connect with your Teradata VaaS on Azure and explains them in detail.
 
 This repository doesn't include an exhaustive list of all VCE configuration options and features, but it gathers the infographics I made when I needed to explain something to a customer.
 
